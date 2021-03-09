@@ -15,3 +15,9 @@ __Developed on behalf of the Bioinformatics Core Facility, Linköping University
 - Fastq filename suffix must be set in the config.json file, e.g.:\
   /path_to_normal/256_S1_R1_001.fastq.gz --> "_R1_001.fastq.gz"\
   /path_to_normal/256_S1_R2_001.fastq.gz --> "_R2_001.fastq.gz"
+  
+- Raw data should be stored in the same folder
+- Paths to raw data and reference must be set in the config.json file
+- Fastq filename suffix must be set in the config.json file, e.g.:\
+  /path_to_fastq/FR1_S16_L001_R1_001.fastq.gz --> "_L001_R1_001.fastq.gz"\
+  /path_to_fastq/FR1_S16_L001_R2_001.fastq.gz --> "_L001_R2_001.fastq.gz"
