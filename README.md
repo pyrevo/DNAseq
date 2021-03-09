@@ -13,3 +13,6 @@ __Developed on behalf of the Bioinformatics Core Facility, Linköping University
 - Fastq filename suffix must be set in the config.json file, e.g.:\
   /path_to_fastq/FR1_S16_L001_R1_001.fastq.gz --> "_L001_R1_001.fastq.gz"\
   /path_to_fastq/FR1_S16_L001_R2_001.fastq.gz --> "_L001_R2_001.fastq.gz"
+  
+[//]: # (This is a comment.)
+
