@@ -15,4 +15,4 @@ __Developed on behalf of the Bioinformatics Core Facility, Linköping University
   /path_to_fastq/FR1_S16_L001_R2_001.fastq.gz --> "_L001_R2_001.fastq.gz"
   
 [//]: # (This is a comment.)
-[//]: # pull request test from Clinical-Genomics-Linkoping (https://github.com/Clinical-Genomics-Linkoping/Twist_DNA)
+[//]: # (pull request test from Clinical-Genomics-Linkoping: https://github.com/Clinical-Genomics-Linkoping/Twist_DNA)
